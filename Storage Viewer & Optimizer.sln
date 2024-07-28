@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage Viewer & Optimizer", "Storage Viewer & Optimizer.csproj", "{2477DF40-989E-420B-A559-37D4A003BA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2477DF40-989E-420B-A559-37D4A003BA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2477DF40-989E-420B-A559-37D4A003BA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2477DF40-989E-420B-A559-37D4A003BA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2477DF40-989E-420B-A559-37D4A003BA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A0A152D-371C-486B-83C4-97233BDC702E}
+	EndGlobalSection
+EndGlobal
